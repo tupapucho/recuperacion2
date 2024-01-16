@@ -1,3 +1,8 @@
+'''
+Autor: Antonio Uribe Ramirez
+fehca:10/01/2024
+problema: fechas
+'''
 def es_bisiesto(anio):
     return (anio % 4 == 0 and anio % 100 != 0) or (anio % 400 == 0)
 
