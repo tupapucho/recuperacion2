@@ -1,3 +1,8 @@
+'''
+Autor: Antonio Uribe Ramirez
+fehca:10/01/2024
+problema: complicada
+'''
 x = float(input("Ingresa el valor de x: "))
 y = float(input("Ingresa el valor de y: "))
 z = float(input("Ingresa el valor de z: "))
