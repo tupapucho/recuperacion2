@@ -1,3 +1,8 @@
+'''
+Autor: Antonio Uribe Ramirez
+fehca:10/01/2024
+problema: la ciencia
+'''
 def celsius_to_fahrenheit(celsius):
     return (celsius * 9/5) + 32
 
