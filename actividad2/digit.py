@@ -1,3 +1,8 @@
+'''
+Autor: Antonio Uribe Ramirez
+fehca:10/01/2024
+problema: prom digit
+'''
 def es_palindromo(numero):
     str_numero = str(numero)
     return str_numero == str_numero[::-1]
