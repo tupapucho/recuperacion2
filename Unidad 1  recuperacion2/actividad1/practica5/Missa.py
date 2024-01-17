@@ -1,3 +1,8 @@
+'''
+Autor: Antonio Uribe Ramirez
+fehca:01/01/2024
+problema: missa
+'''
 def grado_numero_missa(numero):
     n = 1
     while True:
